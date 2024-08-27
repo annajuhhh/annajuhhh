@@ -20,6 +20,12 @@ Hello, I'm Anna. I'm 19 years old and a beginner programmer with a passion for t
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annajuhhh&show_icons=false&theme=gruvbox" alt="annajuhhh's GitHub stats">
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annajuhhh&show_icons=true&theme=bear&count_private=true"/>
+</div>
+</p>
+
 
 
 

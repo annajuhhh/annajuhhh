@@ -9,7 +9,7 @@ Olá sou a Anna, tenho 19 anos ,sou programadora iniciante e apaixonada por tecn
 Hello, I'm Anna. I'm 19 years old and a beginner programmer with a passion for technology. I am a full-stack developer and a UX/UI designer. My goal is to create innovative and efficient solutions through technology. On my GitHub profile, you will find a variety of projects that reflect my skills and interests.
 
 <p align="center">
-  <img align="center" src="img.3" alt="Imagem">
+  <img align="center" src="img3.jpg" alt="Imagem">
 </p>
 
 <h4 align="center">Tecnologias estudadas / Studied Technologies </h4>
